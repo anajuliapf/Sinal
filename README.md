@@ -1,4 +1,4 @@
-# Sinal — Gerador de QR Codes (versão simples, sem histórico)
+# Sinal Streamlit Gerador de QR Codes (versão simples, sem histórico)
 
 Cada pessoa que acessa gera o próprio QR code e baixa na hora. Nada fica salvo
 em nenhum banco de dados — quando a página é fechada ou recarregada, some.
